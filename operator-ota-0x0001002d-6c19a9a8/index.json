@@ -1,0 +1,10 @@
+{
+  "family": "esp-c6-io-node",
+  "channel": "operator-ota-validation",
+  "version": "0x0001002d",
+  "artifact": {
+    "file": "firmware.bin",
+    "size": 1528128,
+    "sha256": "6c19a9a88f07c471a5aeefe9dfd761881ffe24a1ec70c8dc3d99e21420f280f9"
+  }
+}
